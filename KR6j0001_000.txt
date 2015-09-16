@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大毘盧遮那成佛神變加持經
+#+DATE: 2015-08-30 20:23:26.011701
+#+PROPERTY: JUAN 0
